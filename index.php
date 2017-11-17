@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Host Guru</title>
+    <title>Host Jacinto</title>
     <meta name="description" content="">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.css" rel="stylesheet">
@@ -19,30 +19,6 @@
 	<link href="css/responsive.css" rel="stylesheet">
   </head>
   <body>
-
-
-	<!-- 
-	*******************
-      	HEADER    
-	****************** 
-	-->
-
-	
-
-	<!-- 
-	*******************
-       LOGIN   
-	****************** 
-	-->
-	
-
-	
-<!-- 
-	*******************
-      NAV MENU    
-	****************** 
-	-->
-
 
 	<div class="wpc-menu-wrap">
 		<div class="container">
@@ -73,15 +49,6 @@
 			</div>
 		</div>
 	</div>
-
-
-	<!-- 
-	*******************
-		HOSTING INFO
-	****************** 
-	-->
-
-
 
 	<!-- 
 	*******************
@@ -191,14 +158,6 @@
 		</div>
 	</div>
 
-
-	<!-- 
-	*******************
-		CLIENTS
-	****************** 
-	-->
-
-
 	<!-- 
 	*******************
 		FOOTER
@@ -221,11 +180,6 @@
             </div>          
         </div>
     </footer>
-
-
-
-
-
 
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
